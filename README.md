@@ -6,4 +6,4 @@
 |Seeratpal Jaura   |  seeratpa  |
 |Sohyun Park       |  sohyun2   |
 
-# This repository will hold further updates on the project. 
+This repository will hold further updates on the project. 
