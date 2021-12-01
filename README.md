@@ -3,8 +3,8 @@
 ## Team
 |Student name      | CCID       |
 |------------------|------------|
-|Seeratpal Jaura   |  seeratpa  |
 |Sohyun Park       |  sohyun2   |
+|Seeratpal Jaura   |  seeratpa  |
 
 This repository will hold further updates on the project. 
 
