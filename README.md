@@ -30,7 +30,7 @@
 ## Run instruction
 - The notebooks are Jupyter notebook, so it could be run on the [Google Colab](https://colab.research.google.com/?utm_source=scs-index) by cloning the github repository. The dependencies are installed in the Jupyter notebook itself. So, you would require to run those cell in jupyter notebook to install dependencies.
 
-- The dataset file should be uploaded from your local machine. Therefore, please download and choose the file when you run the cell for downloading the dataset.
+- The [dataset file](Data) should be uploaded from your local machine. Therefore, please download and choose the file when you run the cell for downloading the dataset.
 
 - You should use a GPU session of colab to run it, or you will consume lots of time.
 
